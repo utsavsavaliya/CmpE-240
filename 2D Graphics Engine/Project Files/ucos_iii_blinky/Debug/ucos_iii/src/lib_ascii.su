@@ -1,0 +1,16 @@
+../ucos_iii/src/lib_ascii.c:154:14:ASCII_IsAlpha	24	static
+../ucos_iii/src/lib_ascii.c:184:14:ASCII_IsAlphaNum	24	static
+../ucos_iii/src/lib_ascii.c:215:14:ASCII_IsLower	24	static
+../ucos_iii/src/lib_ascii.c:245:14:ASCII_IsUpper	24	static
+../ucos_iii/src/lib_ascii.c:276:14:ASCII_IsDig	24	static
+../ucos_iii/src/lib_ascii.c:305:14:ASCII_IsDigOct	24	static
+../ucos_iii/src/lib_ascii.c:335:14:ASCII_IsDigHex	24	static
+../ucos_iii/src/lib_ascii.c:369:14:ASCII_IsBlank	24	static
+../ucos_iii/src/lib_ascii.c:403:14:ASCII_IsSpace	24	static
+../ucos_iii/src/lib_ascii.c:438:14:ASCII_IsPrint	24	static
+../ucos_iii/src/lib_ascii.c:472:14:ASCII_IsGraph	24	static
+../ucos_iii/src/lib_ascii.c:503:14:ASCII_IsPunct	24	static
+../ucos_iii/src/lib_ascii.c:537:14:ASCII_IsCtrl	24	static
+../ucos_iii/src/lib_ascii.c:576:11:ASCII_ToLower	24	static
+../ucos_iii/src/lib_ascii.c:614:11:ASCII_ToUpper	24	static
+../ucos_iii/src/lib_ascii.c:646:14:ASCII_Cmp	24	static

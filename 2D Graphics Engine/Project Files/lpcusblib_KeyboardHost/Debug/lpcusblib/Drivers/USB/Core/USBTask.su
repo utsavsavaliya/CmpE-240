@@ -1,0 +1,2 @@
+../lpcusblib/Drivers/USB/Core/USBTask.c:52:6:USB_USBTask	16	static
+../lpcusblib/Drivers/USB/Core/USBTask.c:84:13:USB_HostTask	24	static

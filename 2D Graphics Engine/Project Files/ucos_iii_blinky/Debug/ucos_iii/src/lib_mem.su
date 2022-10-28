@@ -1,0 +1,5 @@
+../ucos_iii/src/lib_mem.c:159:7:Mem_Init	4	static
+../ucos_iii/src/lib_mem.c:218:7:Mem_Clr	16	static
+../ucos_iii/src/lib_mem.c:262:7:Mem_Set	48	static
+../ucos_iii/src/lib_mem.c:354:7:Mem_Copy	48	static
+../ucos_iii/src/lib_mem.c:464:14:Mem_Cmp	56	static

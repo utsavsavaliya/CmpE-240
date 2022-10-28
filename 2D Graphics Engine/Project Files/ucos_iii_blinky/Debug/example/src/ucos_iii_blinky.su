@@ -1,0 +1,5 @@
+../example/src/ucos_iii_blinky.c:58:13:prvSetupHardware	8	static
+../example/src/ucos_iii_blinky.c:68:13:vLEDTask2	32	static
+../example/src/ucos_iii_blinky.c:83:13:vUARTTask	32	static
+../example/src/ucos_iii_blinky.c:98:13:vLEDTask1	64	static
+../example/src/ucos_iii_blinky.c:151:5:main	56	static

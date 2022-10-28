@@ -1,0 +1,9 @@
+../lpcusblib/Drivers/USB/Core/Host.c:47:6:USB_Host_ProcessNextHostState	80	static
+../lpcusblib/Drivers/USB/Core/Host.c:193:9:USB_Host_WaitMS	16	static
+../lpcusblib/Drivers/USB/Core/Host.c:198:6:USB_Host_Enumerate	16	static
+../lpcusblib/Drivers/USB/Core/Host.c:206:6:USB_Host_DeEnumerate	24	static
+../lpcusblib/Drivers/USB/Core/Host.c:220:6:USB_Host_SetActiveHost	16	static
+../lpcusblib/Drivers/USB/Core/Host.c:225:9:USB_Host_GetActiveHost	4	static
+../lpcusblib/Drivers/USB/Core/Host.c:230:6:USB_Host_SetDeviceSpeed	16	static
+../lpcusblib/Drivers/USB/Core/Host.c:235:15:USB_Host_GetDeviceSpeed	16	static
+../lpcusblib/Drivers/USB/Core/Host.c:243:10:USB_Host_GetFrameNumber	8	static

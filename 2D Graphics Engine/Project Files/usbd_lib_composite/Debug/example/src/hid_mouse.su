@@ -1,0 +1,9 @@
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc\usbd/usbd_core.h:557:20:USB_IsConfigured	24	static
+../example/src/hid_mouse.c:66:13:setXYMouseReport	16	static
+../example/src/hid_mouse.c:72:13:setLeftButtonMouseReport	16	static
+../example/src/hid_mouse.c:83:13:Mouse_UpdateReport	16	static
+../example/src/hid_mouse.c:112:20:Mouse_GetReport	24	static
+../example/src/hid_mouse.c:130:20:Mouse_SetReport	24	static
+../example/src/hid_mouse.c:147:20:Mouse_EpIN_Hdlr	24	static
+../example/src/hid_mouse.c:165:13:Mouse_Init	96	static
+../example/src/hid_mouse.c:210:6:Mouse_Tasks	16	static

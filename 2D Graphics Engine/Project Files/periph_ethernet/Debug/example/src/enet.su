@@ -1,0 +1,16 @@
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/enet_17xx_40xx.h:516:20:Chip_ENET_SetADDR	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/enet_17xx_40xx.h:580:20:Chip_ENET_TXEnable	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/enet_17xx_40xx.h:601:20:Chip_ENET_RXEnable	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/enet_17xx_40xx.h:681:20:Chip_ENET_Set100Mbps	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/enet_17xx_40xx.h:691:20:Chip_ENET_Set10Mbps	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/enet_17xx_40xx.h:735:24:Chip_ENET_GetTXConsumeIndex	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/enet_17xx_40xx.h:745:24:Chip_ENET_GetRXProduceIndex	16	static
+../example/src/enet.c:77:13:localMsDelay	16	static
+../example/src/enet.c:86:13:InitDescriptors	16	static
+../example/src/enet.c:118:14:ENET_RXGet	24	static
+../example/src/enet.c:140:13:ENET_RXBuffClaim	8	static
+../example/src/enet.c:146:14:ENET_TXBuffGet	16	static
+../example/src/enet.c:157:13:ENET_TXQueue	16	static
+../example/src/enet.c:166:13:ENET_IsTXFinish	16	static
+../example/src/enet.c:184:6:ETH_IRQHandler	4	static
+../example/src/enet.c:193:5:main	64	static

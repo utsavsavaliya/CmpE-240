@@ -1,0 +1,8 @@
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/core_cm3.h:1405:22:NVIC_SetPriority	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/core_cm3.h:1532:26:SysTick_Config	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/fmc_17xx_40xx.h:75:20:Chip_FMC_ComputeSignature	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/fmc_17xx_40xx.h:92:20:Chip_FMC_ComputeSignatureBlocks	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/fmc_17xx_40xx.h:110:20:Chip_FMC_IsSignatureBusy	4	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/fmc_17xx_40xx.h:120:24:Chip_FMC_GetSignature	16	static
+../example/src/flashiap.c:76:6:SysTick_Handler	8	static
+../example/src/flashiap.c:85:5:main	24	static

@@ -1,0 +1,7 @@
+../ucos_iii/src/cpu_c.c:132:7:CPU_BitBandClr	24	static
+../ucos_iii/src/cpu_c.c:175:7:CPU_BitBandSet	24	static
+../ucos_iii/src/cpu_c.c:249:7:CPU_IntSrcDis	24	static
+../ucos_iii/src/cpu_c.c:338:7:CPU_IntSrcEn	24	static
+../ucos_iii/src/cpu_c.c:437:7:CPU_IntSrcPendClr	24	static
+../ucos_iii/src/cpu_c.c:509:7:CPU_IntSrcPrioSet	32	static
+../ucos_iii/src/cpu_c.c:644:13:CPU_IntSrcPrioGet	40	static

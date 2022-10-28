@@ -1,0 +1,13 @@
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/core_cm3.h:1323:22:NVIC_EnableIRQ	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/core_cm3.h:1405:22:NVIC_SetPriority	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/uart_17xx_40xx.h:337:20:Chip_UART_IntEnable	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/uart_17xx_40xx.h:352:20:Chip_UART_IntDisable	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/uart_17xx_40xx.h:365:24:Chip_UART_GetIntsEnabled	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/uart_17xx_40xx.h:390:20:Chip_UART_SetupFIFOS	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/uart_17xx_40xx.h:405:20:Chip_UART_ConfigData	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc\usbd/usbd_core.h:557:20:USB_IsConfigured	24	static
+../example/src/cdc_uart.c:86:13:UCOM_UartInit	8	static
+../example/src/cdc_uart.c:108:20:UCOM_bulk_hdlr	40	static
+../example/src/cdc_uart.c:159:20:UCOM_SetLineCode	24	static
+../example/src/cdc_uart.c:255:6:UART0_IRQHandler	24	static
+../example/src/cdc_uart.c:297:13:UCOM_init	120	static

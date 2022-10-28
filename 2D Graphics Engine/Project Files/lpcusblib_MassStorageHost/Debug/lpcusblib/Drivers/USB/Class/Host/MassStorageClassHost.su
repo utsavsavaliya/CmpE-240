@@ -1,0 +1,16 @@
+../lpcusblib/Drivers/USB/Class/Host/MassStorageClassHost.c:43:9:MS_Host_ConfigurePipes	80	static
+../lpcusblib/Drivers/USB/Class/Host/MassStorageClassHost.c:131:16:DCOMP_MS_Host_NextMSInterface	24	static
+../lpcusblib/Drivers/USB/Class/Host/MassStorageClassHost.c:150:16:DCOMP_MS_Host_NextMSInterfaceEndpoint	32	static
+../lpcusblib/Drivers/USB/Class/Host/MassStorageClassHost.c:173:16:MS_Host_SendCommand	56	static
+../lpcusblib/Drivers/USB/Class/Host/MassStorageClassHost.c:215:16:MS_Host_WaitForDataReceived	40	static
+../lpcusblib/Drivers/USB/Class/Host/MassStorageClassHost.c:271:16:MS_Host_SendReceiveData	48	static
+../lpcusblib/Drivers/USB/Class/Host/MassStorageClassHost.c:338:16:MS_Host_GetReturnedStatus	32	static
+../lpcusblib/Drivers/USB/Class/Host/MassStorageClassHost.c:365:9:MS_Host_ResetMSInterface	40	static
+../lpcusblib/Drivers/USB/Class/Host/MassStorageClassHost.c:396:9:MS_Host_GetMaxLUN	32	static
+../lpcusblib/Drivers/USB/Class/Host/MassStorageClassHost.c:421:9:MS_Host_GetInquiryData	96	static
+../lpcusblib/Drivers/USB/Class/Host/MassStorageClassHost.c:453:9:MS_Host_TestUnitReady	80	static
+../lpcusblib/Drivers/USB/Class/Host/MassStorageClassHost.c:484:9:MS_Host_ReadDeviceCapacity	88	static
+../lpcusblib/Drivers/USB/Class/Host/MassStorageClassHost.c:523:9:MS_Host_RequestSense	88	static
+../lpcusblib/Drivers/USB/Class/Host/MassStorageClassHost.c:555:9:MS_Host_PreventAllowMediumRemoval	80	static
+../lpcusblib/Drivers/USB/Class/Host/MassStorageClassHost.c:587:9:MS_Host_ReadDeviceBlocks	88	static
+../lpcusblib/Drivers/USB/Class/Host/MassStorageClassHost.c:626:9:MS_Host_WriteDeviceBlocks	88	static

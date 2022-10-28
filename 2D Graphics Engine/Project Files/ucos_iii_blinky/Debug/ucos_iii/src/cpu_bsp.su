@@ -1,0 +1,7 @@
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/timer_17xx_40xx.h:159:20:Chip_TIMER_Enable	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/timer_17xx_40xx.h:181:24:Chip_TIMER_ReadCount	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/timer_17xx_40xx.h:217:20:Chip_TIMER_SetMatch	24	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/timer_17xx_40xx.h:270:20:Chip_TIMER_ResetOnMatchEnable	16	static
+../ucos_iii/src/cpu_bsp.c:95:6:OS_CSP_TickInit	16	static
+../ucos_iii/src/cpu_bsp.c:161:7:CPU_TS_TmrInit	16	static
+../ucos_iii/src/cpu_bsp.c:270:13:CPU_TS_TmrRd	16	static

@@ -1,0 +1,9 @@
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/core_cm3.h:1323:22:NVIC_EnableIRQ	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/core_cm3.h:1335:22:NVIC_DisableIRQ	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/clock_17xx_40xx.h:111:24:Chip_Clock_GetPLLStatus	16	static
+../lpcusblib/Drivers/USB/Core/HAL/LPC17XX/HAL_LPC17xx.c:37:6:HAL_USBInit	24	static
+../lpcusblib/Drivers/USB/Core/HAL/LPC17XX/HAL_LPC17xx.c:68:6:HAL_USBDeInit	24	static
+../lpcusblib/Drivers/USB/Core/HAL/LPC17XX/HAL_LPC17xx.c:78:6:HAL_EnableUSBInterrupt	16	static
+../lpcusblib/Drivers/USB/Core/HAL/LPC17XX/HAL_LPC17xx.c:83:6:HAL_DisableUSBInterrupt	16	static
+../lpcusblib/Drivers/USB/Core/HAL/LPC17XX/HAL_LPC17xx.c:88:6:HAL_USBConnect	16	static
+../lpcusblib/Drivers/USB/Core/HAL/LPC17XX/HAL_LPC17xx.c:100:6:USB_IRQHandler	8	static

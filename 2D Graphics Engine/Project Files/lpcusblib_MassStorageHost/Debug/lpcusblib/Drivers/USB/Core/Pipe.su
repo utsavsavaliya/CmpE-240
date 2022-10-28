@@ -1,0 +1,6 @@
+../lpcusblib/Drivers/USB/Core/Pipe.c:45:6:Pipe_ConfigurePipe	56	static
+../lpcusblib/Drivers/USB/Core/Pipe.c:83:6:Pipe_ClosePipe	16	static
+../lpcusblib/Drivers/USB/Core/Pipe.c:94:6:Pipe_ClearPipes	4	static
+../lpcusblib/Drivers/USB/Core/Pipe.c:97:6:Pipe_IsEndpointBound	16	static
+../lpcusblib/Drivers/USB/Core/Pipe.c:102:9:Pipe_WaitUntilReady	24	static
+../lpcusblib/Drivers/USB/Core/Pipe.c:137:6:Pipe_IsINReceived	32	static

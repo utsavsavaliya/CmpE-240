@@ -1,0 +1,6 @@
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/core_cm3.h:1405:22:NVIC_SetPriority	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/core_cm3.h:1532:26:SysTick_Config	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/clock_17xx_40xx.h:706:20:Chip_Clock_EnableCLKOUT	4	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/clock_17xx_40xx.h:715:20:Chip_Clock_DisableCLKOUT	4	static
+../example/src/clkout.c:64:6:SysTick_Handler	8	static
+../example/src/clkout.c:76:5:main	16	static

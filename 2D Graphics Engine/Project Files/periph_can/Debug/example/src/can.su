@@ -1,0 +1,14 @@
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/core_cm3.h:1323:22:NVIC_EnableIRQ	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/can_17xx_40xx.h:803:24:Chip_CAN_GetStatus	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/can_17xx_40xx.h:814:20:Chip_CAN_EnableInt	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/can_17xx_40xx.h:835:24:Chip_CAN_GetIntStatus	16	static
+C:\Users\Checkout\Documents\MCUXpressoIDE_11.6.0_8187\workspace\lpc_chip_175x_6x\inc/can_17xx_40xx.h:881:20:Chip_CAN_SetAFMode	16	static
+../example/src/can.c:113:13:PrintCANErrorInfo	16	static
+../example/src/can.c:144:13:PrintCANMsg	24	static
+../example/src/can.c:168:13:ReplyRemoteMessage	40	static
+../example/src/can.c:185:13:ReplyNormalMessage	48	static
+../example/src/can.c:198:13:PrintAFLUT	64	static
+../example/src/can.c:253:13:SetupAFLUT	8	static
+../example/src/can.c:261:13:ChangeAFLUT	56	static
+../example/src/can.c:341:6:CAN_IRQHandler	48	static
+../example/src/can.c:390:5:main	32	static

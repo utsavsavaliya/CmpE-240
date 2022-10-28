@@ -1,0 +1,13 @@
+../example/src/cr_ucos_iii_startup_lpc17xx40xx.c:232:6:data_init	40	static
+../example/src/cr_ucos_iii_startup_lpc17xx40xx.c:241:6:bss_init	24	static
+../example/src/cr_ucos_iii_startup_lpc17xx40xx.c:270:1:ResetISR	24	static
+../example/src/cr_ucos_iii_startup_lpc17xx40xx.c:326:6:NMI_Handler	4	static
+../example/src/cr_ucos_iii_startup_lpc17xx40xx.c:333:6:HardFault_Handler	4	static
+../example/src/cr_ucos_iii_startup_lpc17xx40xx.c:340:6:MemManage_Handler	4	static
+../example/src/cr_ucos_iii_startup_lpc17xx40xx.c:347:6:BusFault_Handler	4	static
+../example/src/cr_ucos_iii_startup_lpc17xx40xx.c:354:6:UsageFault_Handler	4	static
+../example/src/cr_ucos_iii_startup_lpc17xx40xx.c:361:6:SVC_Handler	4	static
+../example/src/cr_ucos_iii_startup_lpc17xx40xx.c:368:6:DebugMon_Handler	4	static
+../example/src/cr_ucos_iii_startup_lpc17xx40xx.c:375:6:PendSV_Handler	4	static
+../example/src/cr_ucos_iii_startup_lpc17xx40xx.c:382:6:SysTick_Handler	4	static
+../example/src/cr_ucos_iii_startup_lpc17xx40xx.c:396:6:IntDefaultHandler	4	static

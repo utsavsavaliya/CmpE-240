@@ -1,0 +1,14 @@
+../ucos_iii/src/cpu_core.c:191:7:CPU_Init	8	static
+../ucos_iii/src/cpu_core.c:231:7:CPU_SW_Exception	4	static
+../ucos_iii/src/cpu_core.c:447:11:CPU_TS_Get32	16	static
+../ucos_iii/src/cpu_core.c:584:7:CPU_TS_Update	4	static
+../ucos_iii/src/cpu_core.c:627:18:CPU_TS_TmrFreqGet	24	static
+../ucos_iii/src/cpu_core.c:679:7:CPU_TS_TmrFreqSet	16	static
+../ucos_iii/src/cpu_core.c:711:13:CPU_IntDisMeasMaxCurReset	16	static
+../ucos_iii/src/cpu_core.c:753:13:CPU_IntDisMeasMaxCurGet	24	static
+../ucos_iii/src/cpu_core.c:796:13:CPU_IntDisMeasMaxGet	24	static
+../ucos_iii/src/cpu_core.c:834:7:CPU_IntDisMeasStart	8	static
+../ucos_iii/src/cpu_core.c:1021:7:CPU_IntDisMeasStop	16	static
+../ucos_iii/src/cpu_core.c:1322:15:CPU_TS_Init	8	static
+../ucos_iii/src/cpu_core.c:1402:15:CPU_IntDisMeasInit	24	static
+../ucos_iii/src/cpu_core.c:1536:21:CPU_IntDisMeasMaxCalc	24	static

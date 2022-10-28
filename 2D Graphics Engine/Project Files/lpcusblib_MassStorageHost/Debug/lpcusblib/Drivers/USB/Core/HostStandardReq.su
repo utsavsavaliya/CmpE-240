@@ -1,0 +1,7 @@
+../lpcusblib/Drivers/USB/Core/HostStandardReq.c:45:9:USB_Host_SendControlRequest	40	static
+../lpcusblib/Drivers/USB/Core/HostStandardReq.c:224:9:USB_Host_SetDeviceConfiguration	32	static
+../lpcusblib/Drivers/USB/Core/HostStandardReq.c:248:9:USB_Host_GetDeviceDescriptor	32	static
+../lpcusblib/Drivers/USB/Core/HostStandardReq.c:264:9:USB_Host_GetDeviceStringDescriptor	32	static
+../lpcusblib/Drivers/USB/Core/HostStandardReq.c:283:9:USB_Host_GetDeviceStatus	32	static
+../lpcusblib/Drivers/USB/Core/HostStandardReq.c:299:9:USB_Host_ClearEndpointStall	32	static
+../lpcusblib/Drivers/USB/Core/HostStandardReq.c:315:9:USB_Host_SetInterfaceAltSetting	32	static
